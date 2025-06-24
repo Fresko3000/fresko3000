@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Ciao, sono Fresko3000!
 
-<!--
-**Fresko3000/fresko3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Appassionato di PC, AI e… un po’ di tutto!
 
-Here are some ideas to get you started:
+Benvenuto/a sul mio profilo! Sono un semplice appassionato di informatica e intelligenza artificiale, con conoscenze di base in programmazione. Mi piace esplorare, imparare cose nuove e sperimentare – anche se ogni tanto il mio PC si spaventa quando mi vede arrivare!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Cosa mi piace fare:
+- Smanettare con computer e tecnologie di ogni tipo
+- Curiosare nel mondo dell’intelligenza artificiale
+- Strimpellare la chitarra (attenzione alle orecchie sensibili!)
+- Ascoltare musica non-stop
+- Dedicarmi al design (con risultati alterni, ma sempre con entusiasmo)
+- Sfrecciare in moto per sentirmi un po’ più libero
+
+---
+
+### 🛠️ Competenze tecniche:
+- Programmazione a livello elementare (ma con tanta voglia di migliorare!)
+- Grande creatività e spirito di iniziativa
+
+---
+
+### 📫 Contattami?
+Non sono molto social (e i miei profili sono riservati come le password dei WiFi nei bar), ma se vuoi scambiare due chiacchiere, basta aprire una issue o lasciare una stella ai miei progetti preferiti!
+
+---
+
+> Sii curioso, sii gentile, e ricorda: la tecnologia è più divertente se la si prende con il sorriso! 😄

@@ -2,7 +2,7 @@
 
 ## 🚀 Appassionato di PC, AI e… un po’ di tutto!
 
-Benvenuto/a sul mio profilo! Sono un semplice appassionato di informatica e intelligenza artificiale, con conoscenze di base in programmazione. Mi piace esplorare, imparare cose nuove e sperimentare – anche se ogni tanto il mio PC si spaventa quando mi vede arrivare!
+Benvenuto/a sul mio profilo! Sono un semplice appassionato di informatica e intelligenza artificiale. Mi piace esplorare, imparare cose nuove e sperimentare – anche se ogni tanto il mio PC si spaventa quando mi vede arrivare!
 
 ---
 

@@ -12,7 +12,6 @@ Benvenuto/a sul mio profilo! Sono un semplice appassionato di informatica e inte
 - Strimpellare la chitarra (attenzione alle orecchie sensibili!)
 - Ascoltare musica non-stop
 - Dedicarmi al design (con risultati alterni, ma sempre con entusiasmo)
-- Sfrecciare in moto per sentirmi un po’ più libero
 
 ---
 
